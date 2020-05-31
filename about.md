@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Two friends talking about embedded sw/hw stuff and takeing notes. Try to do this every week...
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[milivojevicvoja@yahoo.com](mailto:milivojevicvoja@yahoo.com) || [lestrigonac@gmail.com](mailto:lestrigonac@gmail.com) 
