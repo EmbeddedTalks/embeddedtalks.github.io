@@ -9,4 +9,4 @@ Two friends talking about embedded sw/hw stuff and takeing notes. Try to do this
 
 ### Contact us
 
-[milivojevicvoja@yahoo.com](mailto:milivojevicvoja@yahoo.com) || [lestrigonac@gmail.com](mailto:lestrigonac@gmail.com) 
+[milivojevicvoja@yahoo.com](mailto:milivojevicvoja@yahoo.com)  ||  [lestrigonac@gmail.com](mailto:lestrigonac@gmail.com) 
