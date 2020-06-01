@@ -26,7 +26,7 @@ Hello from embeddedTalks!
 
 4. Architecture of adding new module, example RGB LED:
   * It is important to understand how to create application layers, and in this case we can make:
-    * GPIO(PWM) - usualy implemented in HAL
+    * GPIO(PWM) - usually implemented in HAL
     * RGB LED
     * Functionality
   * if we add new LED we can easily add new functionalities
