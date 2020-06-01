@@ -1,9 +1,9 @@
 ---
 layout: post
-title: EmbeddedTalks #1
+title: EmbeddedTalks-#1
 ---
 
-Hello from embeddedTalks!
+First talk about embedded sw - C lenguage, Make files, simulators, etc.
 
 ## Topics:  
 
