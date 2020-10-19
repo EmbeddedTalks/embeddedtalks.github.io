@@ -18,5 +18,7 @@ Embedded ML and other stuff...
 3. Create website with Notion
   * https://fruitionsite.com/
   * https://www.notion.so/product
+  
+4. Interesting application of radars in smart home industry
 
-4. Trading with stocks in Germany
+5. Trading with stocks in Germany
